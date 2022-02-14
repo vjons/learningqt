@@ -1,0 +1,12 @@
+File
+	New:newFile:Ctrl+N
+	Open:openFile
+	Save:saveFile:Ctrl+S
+	Save As:saveFileAs
+	Close:closeFile:Alt+C
+	-------------
+	Quit:close:Ctrl+Q
+Edit
+	Clear:clear
+Help
+	About:about

@@ -1,0 +1,5 @@
+File:
+	Quit:close
+Edit:
+	Clear:clear
+	
